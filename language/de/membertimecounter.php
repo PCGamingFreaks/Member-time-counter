@@ -34,7 +34,7 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'MEMBER_FOR' 	=> 'Mitglied seit:',
+	'MEMBER_FOR' 	=> 'Mitglied seit',
 	'YEARS' 		=> 'Jahren',
 	'MONTHS' 		=> 'Monaten',
 	'AND' 			=> 'und',
